@@ -2,9 +2,11 @@
 <html>
 <head>
 	<title>Data Mahasiswa</title>
+	<link rel="stylesheet" href="styleindex.css">
 </head>
 <body>
- 
+ <div class="wrapper">
+  <div id="formContent">
 	<h2>Data Mahasiswa</h2>
 	<br/>
 	<a href="index.php">KEMBALI</a>
